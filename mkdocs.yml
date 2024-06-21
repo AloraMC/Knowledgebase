@@ -1,0 +1,55 @@
+site_name: AloraMC KnowledgeBook
+site_url: https://kb.aloramc.com
+repo_url: https://github.com/AloraMC/knowledgebook
+repo_name: AloraMC/KnowledgeBook
+copyright: Copyright &copy; 2024 AloraMC
+theme:
+  name: material
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  icon:
+    repo: fontawesome/brands/github
+  palette: 
+
+    # Palette toggle for light mode
+    - scheme: default
+      primary: blue
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: blue
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  features:
+    - navigation.footer
+    - navigation.top
+    - navigation.instant
+    # - navigation.tabs
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/AloraMC
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/AloraMC
+  generator: false
+
+plugins:
+  - search
+  - social
+  - git-committers:
+      repository: squidfunk/mkdocs-material
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
