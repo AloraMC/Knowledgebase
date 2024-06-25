@@ -3,7 +3,7 @@ title: 📔 AloraMC Code of Conduct
 hide: toc
 ---
 
-![Alora Code of Conduct](../assets/image.png)
+![Alora Code of Conduct](../assets/conduct.png)
 
 # 📔 AloraMC Code of Conduct
 
