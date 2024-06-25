@@ -24,11 +24,23 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to light mode
+
   features:
+    - navigation.sections
     - navigation.footer
     - navigation.top
     - navigation.instant
+    - navigation.instant.progress
     # - navigation.tabs
+    - toc.follow
+    # - toc.integrate
+    
+nav:
+  - 📘 THE IMPORTANT BITS:
+    - index.md
+    - the-important-bits/conduct.md
+  - ❔ GENERAL FAQ:
+    - general-faq/aloramc-staff-faq.md
 
 extra:
   social:
@@ -41,8 +53,10 @@ extra:
 plugins:
   - search
   - social
-  - git-committers:
-      repository: squidfunk/mkdocs-material
+  # - git-committers:
+  #     repository: aloramc/knowledgebook
+  #     token: 
+  - privacy
 
 markdown_extensions:
   - admonition

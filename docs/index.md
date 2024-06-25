@@ -6,5 +6,3 @@ If you're here, you're probably looking for some assistance. The AloraMC staff t
 
 ### Notable Links
 Consider checking out the following pages to get familiar with our knowledgebase:
-
-z

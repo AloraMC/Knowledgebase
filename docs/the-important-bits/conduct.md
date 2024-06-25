@@ -1,3 +1,8 @@
+---
+title: 📔 AloraMC Code of Conduct
+hide: toc
+---
+
 ![Alora Code of Conduct](../assets/image.png)
 
 # 📔 AloraMC Code of Conduct
