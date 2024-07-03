@@ -53,7 +53,7 @@ Members of the Socials team may directly manage any of the socials below:
 
 [@CreateAloraMC](https://www.tiktok.com/@createaloramc) on TikTok
 
-[@CreateAloraMC](https://www.instagram.com/createaloramc)on Instagram
+[@CreateAloraMC](https://www.instagram.com/createaloramc) on Instagram
 
 [@CreateAloraMC](https://x.com/CreateAloraMC) on X / Twitter
 
