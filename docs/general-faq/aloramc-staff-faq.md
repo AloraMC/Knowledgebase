@@ -51,17 +51,17 @@ The Socials team are the team dedicated to managing various AloraMC Creators (@C
 
 Members of the Socials team may directly manage any of the socials below:
 
-@createaloramc on TikTok
+[@CreateAloraMC](https://www.tiktok.com/@createaloramc) on TikTok
 
-@createaloramc on Instagram
+[@CreateAloraMC](https://www.instagram.com/createaloramc)on Instagram
 
-@CreateAloraMC on X / Twitter
+[@CreateAloraMC](https://x.com/CreateAloraMC) on X / Twitter
 
 Members of the Socials team may also create the content for any of the socials below:
 
-@playaloramc on TikTok
+[@PlayAloraMC](https://www.tiktok.com/@playaloramc) on TikTok
 
-@PlayAloraMC on YouTube
+[@PlayAloraMC](https://www.youtube.com/@PlayAloraMC) on YouTube
 
 ### Community Manager
 TBD
