@@ -1,2 +1,2 @@
 mkdocs-material[imaging]
-mkdocs-glightbox
+mkdocs-git-committers-plugin-2
