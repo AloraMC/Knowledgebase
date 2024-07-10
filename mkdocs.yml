@@ -4,6 +4,8 @@ repo_url: https://github.com/AloraMC/knowledgebook
 repo_name: AloraMC/KnowledgeBook
 copyright: Copyright &copy; 2024 AloraMC
 theme:
+  font:
+    text: Lexend
   name: material
   logo: assets/logo.png
   favicon: assets/logo.png
