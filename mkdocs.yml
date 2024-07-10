@@ -35,7 +35,7 @@ theme:
     - navigation.instant.progress
     # - navigation.tabs
     - toc.follow
-    # - toc.integrate
+    - toc.integrate
     
 nav:
   - 📘 THE IMPORTANT BITS:
@@ -55,9 +55,8 @@ extra:
 plugins:
   - search
   - social
-  # - git-committers:
-  #     repository: aloramc/knowledgebook
-  #     token: 
+  - git-committers:
+      repository: aloramc/knowledgebook
   - privacy
 
 markdown_extensions:
