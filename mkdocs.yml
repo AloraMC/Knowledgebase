@@ -1,7 +1,7 @@
-site_name: AloraMC KnowledgeBook
+site_name: AloraMC Knowledgebase
 site_url: https://kb.aloramc.com
-repo_url: https://github.com/AloraMC/knowledgebook
-repo_name: AloraMC/KnowledgeBook
+repo_url: https://github.com/AloraMC/Knowledgebase
+repo_name: AloraMC/KnowledgeBase
 copyright: Copyright &copy; 2024 AloraMC - <a href="#__consent">Change cookie settings</a>
 theme:  
   name: material
