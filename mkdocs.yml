@@ -56,6 +56,14 @@ extra:
       link: https://github.com/AloraMC
     - icon: fontawesome/brands/discord
       link: https://discord.gg/AloraMC
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/@PlayAloraMC
+    - icon: fontawesome/brands/tiktok
+      link: https://tiktok.com/@PlayAloraMC
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@PlayAloraMC
+    - icon: fontawesome/brands/reddit
+      link: https://www.reddit.com/r/AloraMC/
   generator: false
   consent:
     title: Cookie consent
