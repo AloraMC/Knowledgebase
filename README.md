@@ -11,7 +11,7 @@ This is the official knowledgebook of AloraMC, your next favorite Minecraft serv
   
 * [Python](https://www.python.org/)
 * [Markdown](https://www.markdownguide.org/)
-* [mkdocs-material](https://github.com/squidfunk/mkdocs-material)
+* [Mkdocs-Material](https://github.com/squidfunk/mkdocs-material)
 
 
 ## License Information
