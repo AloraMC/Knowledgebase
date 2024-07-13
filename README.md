@@ -5,8 +5,7 @@
 This is the official knowledgebook of AloraMC, your next favorite Minecraft server. You can read all things about the server here or if you need any help, u can look it up on the knowledgebase!
 
 ## Created with
-![Python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-264de4.svg?style=for-the-badge&logo=CSS3&logoColor=white)
-
+![Python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 * [Python](https://www.python.org/)
 * [Markdown](https://www.markdownguide.org/)
 * [Mkdocs-Material](https://github.com/squidfunk/mkdocs-material)
