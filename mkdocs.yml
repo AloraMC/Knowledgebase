@@ -72,8 +72,11 @@ plugins:
   - search
   - social
   - git-committers:
-      repository: aloramc/knowledgebook
+      repository: AloraMC/Knowledgebase
+      branch: main
   - privacy
+  - git-revision-date-localized:
+      enable_creation_date: true
 
 markdown_extensions:
   - admonition
