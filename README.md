@@ -1,6 +1,6 @@
 # AloraMC Knowledgebase
 
-<img alt="GitHub License" src="https://img.shields.io/github/license/aloramc/knowledgebase?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/LICENSE-CC%20BY-NC-SA%204.0?style=for-the-badge&labelColor=%23555555&color=%239F9F9F">
 
 This is the official knowledgebook of AloraMC, your next favorite Minecraft server. You can read all things about the server here or if you need any help, u can look it up on the knowledgebase!
 
