@@ -3,6 +3,7 @@ site_url: https://kb.aloramc.com
 repo_url: https://github.com/AloraMC/Knowledgebase
 repo_name: AloraMC/KnowledgeBase
 copyright: Copyright &copy; 2024 AloraMC - <a href="#__consent">Change cookie settings</a>
+edit_uri: edit/main/docs/
 theme:  
   name: material
   custom_dir: overrides
@@ -47,6 +48,7 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
+    - content.action.edit
     
 nav:
   - 📘 THE IMPORTANT BITS:
@@ -87,7 +89,7 @@ plugins:
   - privacy
   - git-revision-date-localized:
       enable_creation_date: true
-  - offline
+  # - offline
 
 
 markdown_extensions:
