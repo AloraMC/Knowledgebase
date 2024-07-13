@@ -5,6 +5,7 @@ repo_name: AloraMC/KnowledgeBase
 copyright: Copyright &copy; 2024 AloraMC - <a href="#__consent">Change cookie settings</a>
 theme:  
   name: material
+  custom_dir: overrides
   font:
     text: Lexend
   logo: assets/logo.png
@@ -39,9 +40,13 @@ theme:
     - navigation.top
     - navigation.instant
     - navigation.instant.progress
+    - navigation.tracking
     # - navigation.tabs
     - toc.follow
-    - toc.integrate
+    # - toc.integrate
+    - search.suggest
+    - search.highlight
+    - search.share
     
 nav:
   - 📘 THE IMPORTANT BITS:
@@ -82,6 +87,8 @@ plugins:
   - privacy
   - git-revision-date-localized:
       enable_creation_date: true
+  - offline
+
 
 markdown_extensions:
   - admonition
