@@ -4,16 +4,13 @@ repo_url: https://github.com/AloraMC/knowledgebook
 repo_name: AloraMC/KnowledgeBook
 copyright: Copyright &copy; 2024 AloraMC - <a href="#__consent">Change cookie settings</a>
 theme:  
+  name: material
   font:
     text: Lexend
-  name: material
   logo: assets/logo.png
   favicon: assets/logo.png
   icon:
     repo: fontawesome/brands/github
-  palette: 
-
-theme:
   palette:
 
     # Palette toggle for automatic mode
