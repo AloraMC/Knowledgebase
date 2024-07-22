@@ -1,11 +1,12 @@
 ---
-title: 📔 AloraMC Code of Conduct
+title: AloraMC Code of Conduct
+icon: :notebook:
 hide: toc
 ---
 
 ![Alora Code of Conduct](../assets/conduct.png)
 
-# 📔 AloraMC Code of Conduct
+# :notebook: AloraMC Code of Conduct
 
 It's important to keep you safe around here, and your safety is one of AloraMC's top priorities. This page states the Code of Conduct, which any one interacting with AloraMC must abide by.
 

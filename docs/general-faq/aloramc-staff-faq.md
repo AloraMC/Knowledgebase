@@ -1,7 +1,9 @@
 # AloraMC Staff FAQ
+
 Find out more about our Staff roles, sectors and the different responsibilities our Staff members have. Use the contents menu to jump to any section (there's quite a bit).
 
 ## Staff Tree Layout
+
 The Staff tree goes as follows, however this is subject to change at any point:
 
 - Leadership*
@@ -23,6 +25,7 @@ The Staff tree goes as follows, however this is subject to change at any point:
 *\*You may not apply for these roles.*
 
 ## Staff Age Limits
+
 Each of our Staff roles have different ages limits, which go as follows, however these are also subject to change as well as exceptions should that be the case:
 
 **Admin** - 16 years or over (Junior Admins 15+)
@@ -40,13 +43,17 @@ Each of our Staff roles have different ages limits, which go as follows, however
 **Ambassador** - 13 years or over
 
 ## Staff Responsibilities
+
 ### Administrator
+
 TBD
 
 ### Developer
+
 TBD
 
 ### Socials
+
 The Socials team are the team dedicated to managing various AloraMC Creators (@CreateAloraMC) social accounts, as well as recording and editing content to be uploaded to the main AloraMC socials (@PlayAloraMC) by the Owner or an Admin. You will find that members of the Socials team are above 16 years of age, as they should be well-versed in editing and recording softwares to provide good quality marketing content.
 
 Members of the Socials team may directly manage any of the socials below:
@@ -64,9 +71,11 @@ Members of the Socials team may also create the content for any of the socials b
 [@PlayAloraMC](https://www.youtube.com/@PlayAloraMC) on YouTube
 
 ### Community Manager
+
 TBD
 
 ### Senior Moderator
+
 Typically, there will only be one or two Senior Moderator's on our team at one time, this is because Senior Moderators act as the "leader" of our Moderation teams. You will find that a Senior Moderator is usually over the age of 15 as they have many responsibilities, and the role is usually obtained from being a loyal Moderator worthy of the promotion.
 
 A Senior Moderator's main responsibilities include:
@@ -89,6 +98,7 @@ A Senior Moderator should be able to communicate with the Owner, as well as work
 The responsibilities of a Senior Moderator can be quite extensive, and is dependent on how they work, what they're skilled at and how they're able to help AloraMC in many aspects other than Moderation.
 
 ### Moderator
+
 The Moderators, whilst inheriting the Junior Moderator's responsibilities, are responsible for ensuring all players are following the rules, and keeping AloraMC a safe environment for everybody. Moderators will typically be aged 14 and over (exceptions apply) and act as the higher ups to Junior Moderators. 
 
 A Moderator's main responsibilities include: 
@@ -109,6 +119,7 @@ Supporting our Junior Moderators
 Of course, we're all a team. Moderators should make sure that Junior Moderators are comfortable with what they're responsible for and should be open to help them if they need it.
 
 ### Ambassador
+
 The AloraMC Ambassadors are responsible for engaging in the community, helping out players where they can, keeping our chats relevant and safe from nuisances, and helping out the Mod team as well as being the Community Manager's little helpers! In essence, an AloraMC Ambassador represents our community and should present themselves as a role model.
 
 The role of AloraMC Ambassador is great for those that are active on the server and are a key member of the community but aren't interested in taking on a more serious staff role. The Ambassador's job is a more laid-back and behind-the-scenes kinda thing.
