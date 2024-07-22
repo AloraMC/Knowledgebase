@@ -55,7 +55,8 @@ theme:
 nav:
   - 📘 THE IMPORTANT BITS:
     - index.md
-    - the-important-bits/conduct.md
+    - the-important-bits/bedrock.md
+    - the-important-bits/code-of-conduct.md
   - ❔ GENERAL FAQ:
     - general-faq/aloramc-staff-faq.md
 
