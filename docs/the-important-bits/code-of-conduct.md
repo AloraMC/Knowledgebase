@@ -1,6 +1,5 @@
 ---
 title: AloraMC Code of Conduct
-icon: :notebook:
 hide: toc
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Playing on Bedrock
-icon: :handshake:
 hide: toc
 ---
 

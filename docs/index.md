@@ -1,6 +1,5 @@
 ---
 title: Where am I?
-icon: :question:
 ---
 
 # ❔ Where am I?
