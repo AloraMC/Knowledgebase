@@ -1,8 +1,8 @@
 ---
 title: AloraMC Code of Conduct
-description: 
+description: The Code Of Conduct used on AloraMC
 published: true
-date: 2025-01-02T21:20:04.815Z
+date: 2025-01-02T23:36:14.860Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-02T21:14:41.364Z
