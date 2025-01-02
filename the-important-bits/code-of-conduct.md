@@ -1,6 +1,11 @@
 ---
 title: AloraMC Code of Conduct
-hide: toc
+description: 
+published: true
+date: 2025-01-02T21:20:04.815Z
+tags: 
+editor: markdown
+dateCreated: 2025-01-02T21:14:41.364Z
 ---
 
 ![Alora Code of Conduct](../assets/conduct.png)
@@ -9,10 +14,8 @@ hide: toc
 
 It's important to keep you safe around here, and your safety is one of AloraMC's top priorities. This page states the Code of Conduct, which any one interacting with AloraMC must abide by.
 
-!!! danger "Consequences of Non-Compliance"
-    There are no exceptions to following our basic conduct. Failure to abide with the Code of Conduct will result in punishment as deemed, if you feel you're punishment was unreasonable, get in touch with a support or a staff member.
-
-
+> **Consequences of Non-Compliance**
+	There are no exceptions to following our basic conduct. Failure to abide with the Code of Conduct will result in 	punishment as deemed, if you feel you're punishment was unreasonable, get in touch with a support or a staff member.{.is-danger}
 
 1. **Toxicity and Harassment:** Bullying, harassment, or any form of aggressive behavior towards other community members will not be tolerated. Toxicity is looked down upon in our community and unjust, unreasonable toxicity will result in punishment dependant on multiple factors. If you feel uncomfortable or are being targeted, please report it to a staff member immediately. 
 
@@ -21,9 +24,8 @@ It's important to keep you safe around here, and your safety is one of AloraMC's
 3. **Use of Derogatory Terms**
 Examples of derogatory terms include but are not limited to: slurs*, inappropriate colloquialism, excessive and harsh curse words.
 
-!!! warning "What is a slur?"
-    A [slur](https://duckduckgo.com/&q=slur) is a term of which is a [derogatory](https://duckduckgo.com/&q=derogatory) or [insulting](https://duckduckgo.com/&q=insulting) term applied to particular group of people, whether minority or majority. [Discrimination](https://www.duckduckgo.com/&q=discrimination+meaning) is not tolerated within AloraMC and will be punished for strictly and severely.
-
+> **What is a slur?**
+A [slur](https://duckduckgo.com/&q=slur) is a term of which is a [derogatory](https://duckduckgo.com/&q=derogatory) or [insulting](https://duckduckgo.com/&q=insulting) term applied to particular group of people, whether minority or majority. [Discrimination](https://www.duckduckgo.com/&q=discrimination+meaning) is not tolerated within AloraMC and will be punished for strictly and severely. {.is-warning}
 
 4. **Explicit Discussions:** Keep conversations and content appropriate for all audiences, regardless of the platform. Any material deemed offensive, explicit, or inappropriate* will be removed, and those responsible may face disciplinary action.
 
