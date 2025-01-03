@@ -1,3 +1,13 @@
+---
+title: aloramc-staff-faq
+description: 
+published: true
+date: 2025-01-03T01:02:30.928Z
+tags: 
+editor: markdown
+dateCreated: 2025-01-02T21:14:39.185Z
+---
+
 # AloraMC Staff FAQ
 
 Find out more about our Staff roles, sectors and the different responsibilities our Staff members have. Use the contents menu to jump to any section (there's quite a bit).
@@ -58,6 +68,8 @@ The Socials team are the team dedicated to managing various AloraMC Creators (@C
 
 Members of the Socials team may directly manage any of the socials below:
 
+[Create.AloraMC.com](https://bsky.app/profile/create.aloramc.com/) on BlueSky
+
 [@CreateAloraMC](https://www.tiktok.com/@createaloramc) on TikTok
 
 [@CreateAloraMC](https://www.instagram.com/createaloramc) on Instagram
@@ -65,6 +77,8 @@ Members of the Socials team may directly manage any of the socials below:
 [@CreateAloraMC](https://x.com/CreateAloraMC) on X / Twitter
 
 Members of the Socials team may also create the content for any of the socials below:
+
+[AloraMC.com](https://bsky.app/profile/aloramc.com/) on BlueSky
 
 [@PlayAloraMC](https://www.tiktok.com/@playaloramc) on TikTok
 
